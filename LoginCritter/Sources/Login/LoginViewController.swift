@@ -3,7 +3,7 @@
 //  LoginCritter
 //
 //  Created by Christopher Goldsby on 3/30/18.
-//  Copyright © 2018 Christopher Goldsby. All rights reserved.
+  Copyright © 2018 Christopher Goldsby. All rights reserved.
 //
 
 import UIKit
